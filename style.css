@@ -1,3 +1,9 @@
-div.header_page{
+body{
   background: #F0FFFF;
+   background: linear-gradient(white,#0066FF);
+   height: 100%; 
+}
+
+h1{
+  text-align: center;
 }
