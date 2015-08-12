@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Amatic+SC:400,700);
+
 body{
   background: #F0FFFF;
    background: linear-gradient(white,#0066FF);
@@ -6,4 +8,5 @@ body{
 
 h1{
   text-align: center;
+  font-family : Amatic SC, 700;
 }
